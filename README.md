@@ -2,7 +2,7 @@
 
 A simple real-time chat application built with Node.js, Express, Socket.IO, and vanilla JavaScript.
 
-![image](https://github.com/user-attachments/assets/4a268478-2113-4a1b-a2aa-14d4c6e2c1b4)
+![image](https://github.com/user-attachments/assets/f17caeef-9867-4db8-87a5-ddd326f9630e)
 
 
 ## Features
