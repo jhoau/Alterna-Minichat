@@ -23,9 +23,10 @@ A simple real-time chat application built with Node.js, Express, Socket.IO, and 
 
 1. Clone the repository:
    git clone https://github.com/your-username/pingme-chat-app.git
+   
    cd pingme-chat-app
 
- 2. Install dependencies:
+ 3. Install dependencies:
     npm install
     
  4. Start the server:
